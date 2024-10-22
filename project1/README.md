@@ -5,7 +5,7 @@
  作业1
 
     算例采用课本计算实习3.2，解方程 Ax = b 。A 的阶数 n 分别取 100, 200, 400;
-    d:\Zachary Chang\GitHub\Calculation-method--Big-project\project1\image.png
+    ![alt text](image.png)
         -2  1   0   .   .   .   0   0   0
         1   -2  1   .   .   .   0   0   0
         0   1   -2  .   .   .   0   0   0
